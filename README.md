@@ -1,10 +1,7 @@
-# STARTER-jpa03
+# jpa03-elaineeeho
 
-```
+
 Running at: <https://jpa03-elaineeeho.dokku-14.cs.ucsb.edu>
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
